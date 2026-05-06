@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Neckhurt",
+        "dex_number": 593,
+        "attack": 65,
+        "hp": 75,
+        "defense": 60,
+        "details": "A Pok\u00e9mon known for its towering neck, capable of detecting faint sounds from afar.",
+        "type": "Normal",
+        "weakness": "Fighting",
+        "evolutions": [
+            "Neckling",
+            "Neckacer",
+            "Necksaur"
+        ]
+    },
+    {
+        "name": "Lebronmander",
+        "dex_number": 828,
+        "attack": 85,
+        "hp": 75,
+        "defense": 70,
+        "details": "A fiery Pok\u00e9mon known for its incredible agility and leadership on the court.",
+        "type": "Fire/Fighting",
+        "weakness": "Water, Ground",
+        "evolutions": [
+            "Slamander",
+            "Dunkizard",
+            "Legendblaze"
+        ]
+    },
+    {
+        "name": "Chuck",
+        "dex_number": 218,
+        "attack": 85,
+        "hp": 100,
+        "defense": 90,
+        "details": "Chuck is known for its powerful punches and sturdy build.",
+        "type": "Fighting",
+        "weakness": "Flying",
+        "evolutions": [
+            "Stage 1",
+            "Stage 2",
+            "Stage 3"
+        ]
+    },
+    {
+        "name": "Lebron James",
+        "dex_number": 540,
+        "attack": 95,
+        "hp": 100,
+        "defense": 90,
+        "details": "A legendary athlete known for his incredible skill and versatility on the court.",
+        "type": "Basketball",
+        "weakness": "Age",
+        "evolutions": [
+            "Rookie",
+            "All-Star",
+            "Legend"
+        ]
+    },
+    {
+        "name": "Arthur Liu",
+        "dex_number": 139,
+        "attack": 85,
+        "hp": 70,
+        "defense": 60,
+        "details": "A charismatic Pok\u00e9mon known for its strategic mind and quick reflexes. Often found in competitive battles.",
+        "type": "Psychic",
+        "weakness": "Bug, Ghost, Dark",
+        "evolutions": [
+            "Arthur Liu",
+            "Arthur Liu II",
+            "Arthur Liu III"
+        ]
+    }
+]
