@@ -680,3 +680,4 @@ else:
     if st.button("RESTART BATTLE"):
         restart_game()
         st.rerun()
+
