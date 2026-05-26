@@ -680,3 +680,8 @@ else:
     if st.button("RESTART BATTLE"):
         restart_game()
         st.rerun()
+
+#I utilized ChatGPT and Claude for the TSA Bot idea, formatting the TSA Bot and formatting the Program's styling and designs. The colorway is through asking AI's help as I did not know how to
+#use the st_yled function so the AI suggested and made the formatting through CSS and st.markdown. The AI also helped me fix my session state saving function so the code itself will be displayed
+#on a dropdown menu instead of having to manually check different pages while the rest was done on my own, but the AI was required to revise and reformat and optimize my code so it looks more clean
+#and well formatted for the users and viewers.
